@@ -30,9 +30,8 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing, Machine Learning and Blockchain. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010Alexander Van strahlen.hashnode.dev/)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
