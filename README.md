@@ -1,99 +1,62 @@
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Alexander Van strahlen</h1></summary>
   </ul>
 </div>
 
-
-
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Fortune favours a prepared mind</h2></summary>
   </ul>
 </div>
 
+- 🔭 I’m currently leading the development of **RingVoz**, a modern dashboard built with **Next.js 16 (App Router)** and **React 19**.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React,Nextjs, Nestjs, React Native, Nodejs, MongoDB, Express**
+- 🌱 I’m currently specializing in **Blockchain Development** at **Blockchain Accelerator**, building 15+ practical projects in **DeFi, Smart Contracts Security, and DEXes**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ I have a strong focus on **Serverless Architectures** using **AWS (Lambda, DynamoDB)** and real-time data synchronization with **Firebase**.
 
-- ☁️ I've keen interest in cloud computing, Machine Learning and Blockchain. So,I'm learning **AWS**
-
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Full-Stack Architecture, Next.js optimization, Smart Contracts, and Scalable Dashboards**.
 
 - 📫 Feel free to reach me out **vanstrahlenalex@gmail.com**
 
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Master👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,js,materialui,nginx,mongodb,mysql,nextjs,nestjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,aws,firebase,mongodb,postgres,docker,kubernetes,tailwind,redux,solidity&perline=14" />
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Current Focus & Skills 🚀</h2></summary>
+  </ul>
+</div>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+- **Frontend Architecture**: Advanced patterns with React 19, Zustand for state management, and TanStack Query for server-state.
+- **Backend & Cloud**: Serverless workflows, BFF patterns in Next.js, and containerization with Docker/Kubernetes.
+- **Web3 & Blockchain**: Developing decentralized solutions, including Yield Farming, Liquidity Pools, and NFT Marketplaces.
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/vanstrahlenalex/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 Credit: [Alexander Van strahlen](https://github.com/VanstrahlenAlex)
 
-Last Edited on: 17/4/2024
+Last Edited on: 03/03/2026
