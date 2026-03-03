@@ -30,7 +30,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,aws,firebase,mongodb,postgres,docker,kubernetes,tailwind,redux,solidity&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,aws,prisma,gcp,firebase,mongodb,postgres,docker,kubernetes,py,express,tailwind,redux,solidity&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Previous Technologies & Legacy Experience 📚</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,java,php,mysql,js,html,css,git&perline=10" />
   </a>
 </p>
 
